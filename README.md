@@ -1,1 +1,3 @@
 # OpenLayers
+
+Testing OpenLayers capabilities.
